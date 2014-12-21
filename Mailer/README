@@ -1,0 +1,11 @@
+This is your new Play application
+=====================================
+
+This file will be packaged with your application, when using `play dist`.
+
+Hi guys
+
+Please do mail setting  before run this test
+
+Setting Location
+conf/application.conf 
